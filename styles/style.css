@@ -1,8 +1,8 @@
 
 body {
     /* https://coolors.co/generate and click export -> scss to get the colors to copy and paste below*/
-    --color1: rgb(146, 56, 4);
-    --color2: rgb(117, 76, 43);
+    --color1: rgb(2, 4, 136);
+    --color2: rgb(37, 107, 211);
     --color3: rgb(211, 212, 208);
     --color4: rgb(246, 237, 233);
     --color5: rgb(246, 241, 239);
@@ -66,6 +66,10 @@ h2 {
     font-weight: bold;
 }
 
+.wrapper {
+    
+    
+}
 .gutter-right {
     margin-right: 100px;
     display: flex;
